@@ -1,0 +1,15 @@
+2023-09-01 11:53:40,415 - INFO - ====== WebDriver manager ======
+2023-09-01 11:53:48,002 - INFO - Get LATEST chromedriver version for google-chrome
+2023-09-01 11:53:48,062 - INFO - Get LATEST chromedriver version for google-chrome
+2023-09-01 11:53:48,062 - INFO - There is no [win64] chromedriver "116.0.5845.141" for browser google-chrome "116.0.5845.141" in cache
+2023-09-01 11:53:48,062 - INFO - Get LATEST chromedriver version for google-chrome
+2023-09-01 11:53:48,078 - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2023-09-01 11:53:48,488 - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/known-good-versions-with-downloads.json HTTP/1.1" 200 11501
+2023-09-01 11:53:48,498 - INFO - WebDriver version 116.0.5845.96 selected
+2023-09-01 11:53:48,498 - INFO - Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-01 11:53:48,506 - INFO - About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+2023-09-01 11:53:48,508 - DEBUG - Starting new HTTPS connection (1): edgedl.me.gvt1.com:443
+2023-09-01 11:53:48,794 - DEBUG - https://edgedl.me.gvt1.com:443 "GET /edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip HTTP/1.1" 200 6640039
+2023-09-01 11:53:48,795 - INFO - Driver downloading response is 200
+2023-09-01 11:53:57,881 - INFO - Get LATEST chromedriver version for google-chrome
+2023-09-01 11:53:58,134 - INFO - Driver has been saved in cache [C:\Users\shivam.sharma\.wdm\drivers\chromedriver\win64\116.0.5845.141]
